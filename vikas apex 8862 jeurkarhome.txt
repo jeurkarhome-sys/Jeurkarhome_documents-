@@ -1,0 +1,17 @@
+what to learn for deops ? 
+1) OS - Linux - Ubuntu - fundamental _ Done
+2) version control system _ GitHub 
+3)Shell or bash scripting
+4)Iac _ Terraform 
+5)Configuration manager _ Ansible 
+6) Containers _ Dockers 
+7) COE _ Kubernities ,
+8) Package Management _ HElM , Kustimize
+9) CID/CD _ Github Actions CI + Argo CD 
+
+Observability 
+   Promethivs 
+   ELK
+   Jaegev (OTEL)
+   AWS,AZURE,GCP
+   
